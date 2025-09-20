@@ -19,7 +19,6 @@ install.packages(c("library1_name","library2_name",......))
 
 ## Project Structure
 
-│
 ├── data2.csv           # Input dataset for analysis  
 ├── code.R              # Complete R script containing the analysis and modeling  
 ├── Report.pdf          # Detailed project report  
